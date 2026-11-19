@@ -6,10 +6,14 @@
 
 <p align="center">
   <a href="https://github.com/StremCompat/android-tv/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/StremCompat/android-tv?display_name=tag&color=0F766E"></a>
+  <a href="https://github.com/StremCompat/android-tv/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/StremCompat/android-tv/total?color=0F766E"></a>
   <img alt="Android TV 7.0 and newer" src="https://img.shields.io/badge/Android%20TV-7.0%20and%20newer-0F766E">
   <img alt="Test version" src="https://img.shields.io/badge/status-test%20version-ea345e">
+  <a href="https://github.com/StremCompat/android-tv/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/StremCompat/android-tv?style=flat"></a>
   <a href="https://buymeacoffee.com/Alexesmm"><img alt="Buy me a coffee" src="https://img.shields.io/badge/support-Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"></a>
 </p>
+
+<p align="center"><b>English</b> · <a href="README.pt.md">Português</a></p>
 
 StremCompat brings your **Stremio or Nuvio** account and addons to Android TV and Google TV boxes and TVs, with an interface made for the remote. It is an independent, unofficial project, not affiliated with or endorsed by Stremio, Nuvio or Google, and it plays only what your own addons provide.
 
@@ -26,6 +30,8 @@ StremCompat brings your **Stremio or Nuvio** account and addons to Android TV an
 
 Both can be installed together. On its first start the native version brings your account, library and settings from the web one.
 
+There is also an **app for Android phones** (beta), with the same account and addons, published in this repository as `StremCompat-Phone-v…-beta-Android.apk`.
+
 ## Features
 
 The same app as on LG ([full list](https://github.com/StremCompat/webos#features)):
@@ -37,6 +43,7 @@ The same app as on LG ([full list](https://github.com/StremCompat/webos#features
 - Best source, source filters, subtitles and audio remembered per title, Skip intro and the next episode.
 - **Video with ExoPlayer:** MKV, HEVC and surround sound play as in the official apps.
 - **Torrents** play on the device itself, through a torrent engine inside the app. Debrid and direct links work too.
+- What you are watching shows up in the "Continue watching" row of the Google TV home screen.
 - Eleven languages.
 
 ## Screenshots
